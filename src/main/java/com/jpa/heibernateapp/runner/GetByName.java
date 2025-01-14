@@ -1,8 +1,5 @@
 package com.jpa.heibernateapp.runner;
-
-
 import com.jpa.heibernateapp.entity.HotelEntity;
-
 import javax.persistence.*;
 
 public class GetByName {

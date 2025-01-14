@@ -2,10 +2,7 @@ package com.jpa.heibernateapp.runner;
 
 import com.jpa.heibernateapp.entity.HotelEntity;
 
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
-import javax.persistence.Query;
+import javax.persistence.*;
 
 public class FindRunner {
     public static void main(String[] args) {

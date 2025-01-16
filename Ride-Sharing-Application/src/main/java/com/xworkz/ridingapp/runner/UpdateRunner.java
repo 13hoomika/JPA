@@ -1,4 +1,4 @@
-package com.xworkz.ridingapp;
+package com.xworkz.ridingapp.runner;
 
 import com.xworkz.ridingapp.entity.RideEntity;
 import com.xworkz.ridingapp.service.RideService;

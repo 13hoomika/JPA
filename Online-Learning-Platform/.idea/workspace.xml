@@ -33,14 +33,16 @@
     "Application.MainRunner.executor": "Run",
     "Application.PersistListRunner.executor": "Run",
     "Application.SaveRunner.executor": "Run",
+    "Application.UpdateByName.executor": "Run",
+    "Application.UpdateByNameRunner.executor": "Run",
     "Application.UpdateRunner.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/06 GO19ROM Aug19/JPA/Repository & Service/Online-Learning-Platform"
+    "last_opened_file_path": "D:/06 GO19ROM Aug19/Java/17 Java 8 features/LambdaExpressions"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FindByNameRunner">
+  <component name="RunManager" selected="Application.UpdateRunner">
     <configuration name="FindByIdRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xwrokz.udemy.runner.FindByIdRunner" />
       <module name="Online-Learning-Platform" />
@@ -67,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersistListRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xwrokz.udemy.runner.PersistListRunner" />
+    <configuration name="SaveRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xwrokz.udemy.runner.SaveRunner" />
       <module name="Online-Learning-Platform" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaveRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xwrokz.udemy.runner.SaveRunner" />
+    <configuration name="UpdateByNameRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xwrokz.udemy.runner.UpdateByNameRunner" />
       <module name="Online-Learning-Platform" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindByNameRunner" />
-        <item itemvalue="Application.SaveRunner" />
         <item itemvalue="Application.UpdateRunner" />
+        <item itemvalue="Application.SaveRunner" />
+        <item itemvalue="Application.UpdateByNameRunner" />
         <item itemvalue="Application.FindByIdRunner" />
-        <item itemvalue="Application.PersistListRunner" />
+        <item itemvalue="Application.FindByNameRunner" />
       </list>
     </recent_temporary>
   </component>
